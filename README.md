@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Osman Ali
 
 
-**osmanaligungor/osmanaligungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Software Developer | Frontend Developer | React Developer
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Javascript,React,Css,Css3,Html,Html5,Bs
 - 🌱 I’m currently learning ...
